@@ -1,13 +1,10 @@
-# Phase 1 Project Templates and Examples
+# Phase 1 Project
+# Kengeles Aviation
 
-This repo contains templates and examples to help you get started with your Phase 1 Project. Each of these is in a separate branch as explained below.
+In this project we are studying 'Kengele Aviation' a fictious company that is interested in venturing into the aviation industry as a diversification from it's main investment portfolio.
 
-- The **template-mvp** branch is the template you should use to for your Phase 1 Project. MVP stands for Minimum Viable Product, but this isn't meant in a negative way - if your project uses this template, it will be functional and accessible.
+The dataset was obtained from The NTSB aviation accident database containing information from 1962 and later about civil aviation accidents and selected incidents within the United States, its territories and possessions, and in international waters.
 
-- The **example-mvp** branch is an example project using the MVP template.
+The dataset includes information on various aspects, such as aircraft make and model, injury severity, aircraft damage and the purpose of the flight.
 
-Once you've completed your project using the MVP template, you can improve it using the Above and Beyond (AAB) template if you have time:
-
-- The **template-aab** branch is the AAB template to use to keep improving your project.
-
-- The **example-aab** branch is an example project using the AAB template.
+In our approach we shall focus on the key insights for the aviation company in starting up its local business.
